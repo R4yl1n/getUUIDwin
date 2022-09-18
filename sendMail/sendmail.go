@@ -9,8 +9,8 @@ import (
 
 func Sendto(mail string, UUID string) {
 
-	from := "raylin366@hotmail.com"
-	password := "05ray08ray"
+	from := "youremail"
+	password := "withyourpassword"
 
 	to := []string{
 		mail,
